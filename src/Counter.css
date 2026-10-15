@@ -17,3 +17,11 @@
 .counter button:hover {
   background-color: violet;
 }
+
+.clockControl {
+  text-decoration: underline;
+  cursor: pointer;
+  padding: 10px;
+  background-color: lightgray;
+  color: black;
+}
